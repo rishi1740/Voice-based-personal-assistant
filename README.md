@@ -1,4 +1,4 @@
-﻿# Voice-Based-Assistant
+﻿# Voice-Based-Personal-Assistant
 
 
 PROJECT:DESIGN AND IMPLEMENTATION OF VOICE BASED PERSONAL ASSISTANT
